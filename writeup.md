@@ -23,7 +23,8 @@ The goals / steps of this project are the following:
 [image8]: ./output_images/quadratic_lines.png "Quadric line equiverlent of the found lines"
 [image9]: ./output_images/straight_lines1.jpg "Final lane overlay with road curveture"
 [image10]: ./output_images/undistorted_car.jpg "undistorted road"
-[video1]: (output_images/project_video.mp4) "Video"
+[video1]: ./output_images/project_video.mp4 "Video"
+[video2]: ./output_images/drivingnight.avi "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 ### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.
@@ -99,7 +100,8 @@ I implemented this step in lines 510 through 531 in my code in `driveline.py` in
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video result][video1]
+Here's a [link to my project video][video1] and heres is a [link to my night driving video][video2]
+
 
 ---
 
