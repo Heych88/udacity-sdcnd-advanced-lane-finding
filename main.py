@@ -86,7 +86,7 @@ while(1):
     else:
         # read in the image to the program
         image = cv2.imread(data.img_add, -1)
-        image = cal.undistort_image(image)
+        #image = cal.undistort_image(image)
         cv2.imwrite('output_images/undistorted_car.jpg', image)
 
     # see if we have already defined the class drive_lane

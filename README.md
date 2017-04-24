@@ -1,6 +1,6 @@
 # Road Lane Detection
 
-Udacity Self-driving car nano degree project 4, Advanced Lane Finding submission. 
+Udacity Self-driving car nano degree project 4, Advanced Lane Finding submission.
 
 
 ## Getting Started
@@ -8,7 +8,7 @@ Udacity Self-driving car nano degree project 4, Advanced Lane Finding submission
 Download and unzip or clone this repository onto your local machine with
 
 ```
-git clone https://github.com/Heych88/udacity-sdcnd-vehicle-detection-and-tracking.git
+git clone https://github.com/Heych88/udacity-sdcnd-advanced--lane-finding.git
 ```
 
 ### Prerequisites
@@ -24,8 +24,7 @@ This project requires python 3 and the following libraries installed
 
 Navigate to the directory of the repository in terminal and run `main.py` with `python3 main.py` and the following image should appear.
 
-[![image2](objects_test1.jpg)](./output_images/objects_test1.jpg)
-
+[![image2](test1.jpg)](./output_images/test1.jpg)
 
 
 ## License
