@@ -2,6 +2,9 @@
 
 Locates and marks the road lane lines from a vehicles dash mounted camerra using Python and the OpenCV library. A video of the filter in action can be found [here](https://youtu.be/8O_-bWPyUX8). Built for the Udacity Self-driving car nano degree project 4, Advanced Lane Finding submission.
 
+## Writeup
+
+The [writeup.md](writeup.md) contains details of the code used in this project.
 
 ## Getting Started
 
