@@ -27,7 +27,9 @@ This project requires python 3 and the following libraries installed
 
 Navigate to the directory of the repository in terminal and run `main.py` with `python3 main.py` and the following image should appear.
 
-[![image2](test1.jpg)](./output_images/test1.jpg)
+[image1]: ./output_images/test1.jpg
+
+![test1.jpg][image1]
 
 
 ## License
