@@ -33,13 +33,13 @@ $ git clone https://github.com/Heych88/udacity-sdcnd-advanced--lane-finding.git
 Navigate to the directory of the repository in terminal and run `main.py`.
 
 ```sh
-$ cd <local directory?/udacity-sdcnd-advanced--lane-finding
+$ cd <local directory>/udacity-sdcnd-advanced--lane-finding
 $ python3 main.py
 ```
 
  The following image should appear.
 
-[![image2](test1.jpg)](output_images/test1.jpg)
+![image2](output_images/test1.jpg)
 
 ## Contributing
 
