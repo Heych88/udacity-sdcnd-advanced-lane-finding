@@ -1,20 +1,18 @@
 # Road Lane Detection
 
-Locates and marks the road lane lines from a vehicles dash mounted camerra using Python and the OpenCV library. A video of the filter in action can be found [here](https://youtu.be/8O_-bWPyUX8). Built for the Udacity Self-driving car nano degree project 4, Advanced Lane Finding submission.
+Udacity Self-driving car nano degree project 4, Advanced Lane Finding submission.
+
+A video of the lane finding filter in action can be seen in the project 5 *Object detection and tracking* video below.
+
+ [![MPC in action](output_images/video.png)](https://youtu.be/8O_-bWPyUX8)
 
 ## Writeup
 
-The [writeup.md](writeup.md) contains details of the code used in this project.
+The [writeup.md](writeup.md) contains details of the code and mathematicle derivations used in this project.
 
-## Getting Started
+---
 
-Download and unzip or clone this repository onto your local machine with
-
-```
-git clone https://github.com/Heych88/udacity-sdcnd-advanced--lane-finding.git
-```
-
-### Prerequisites
+## Prerequisites
 
 This project requires python 3 and the following libraries installed
 
@@ -22,15 +20,34 @@ This project requires python 3 and the following libraries installed
 * numpy
   * `pip3 install --user numpy`
 
+## installation
 
-## Running the tests
+Download and unzip or clone this repository onto your local machine with
 
-Navigate to the directory of the repository in terminal and run `main.py` with `python3 main.py` and the following image should appear.
+```sh
+$ git clone https://github.com/Heych88/udacity-sdcnd-advanced--lane-finding.git
+```
 
-[image1]: ./output_images/test1.jpg
+## Run the Code
 
-![test1.jpg][image1]
+Navigate to the directory of the repository in terminal and run `main.py`.
 
+```sh
+$ cd <local directory?/udacity-sdcnd-advanced--lane-finding
+$ python3 main.py
+```
+
+ The following image should appear.
+
+[![image2](test1.jpg)](./output_images/test1.jpg)
+
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request.
 
 ## License
 
