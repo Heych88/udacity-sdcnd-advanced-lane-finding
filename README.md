@@ -39,7 +39,7 @@ $ python3 main.py
 
  The following image should appear.
 
-[![image2](test1.jpg)](./output_images/test1.jpg)
+[![image2](test1.jpg)](output_images/test1.jpg)
 
 ## Contributing
 
