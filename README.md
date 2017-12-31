@@ -2,13 +2,11 @@
 
 Udacity Self-driving car nano degree project 4, Advanced Lane Finding submission.
 
+For a detailed description and walk through of the key areas of the code, visit the project website [here](https://www.haidynmcleod.com/driving-lane-detection).
+
 A video of the lane finding filter in action can be seen in the project 5 *Object detection and tracking* video below.
 
  [![MPC in action](output_images/video.png)](https://youtu.be/8O_-bWPyUX8)
-
-## Writeup
-
-The [writeup.md](writeup.md) contains details of the code and mathematicle derivations used in this project.
 
 ---
 
