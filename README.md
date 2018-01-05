@@ -7,6 +7,10 @@ For a detailed description and walk through of the key areas of the code, visit 
 A video of the lane finding filter in action can be seen in the project 5 *Object detection and tracking* video below.
 
  [![MPC in action](output_images/video.png)](https://youtu.be/8O_-bWPyUX8)
+ 
+## Project website
+
+This repository has an accompanying project page, contains the theory and details behind the code. It can be found [here](https://www.haidynmcleod.com/driving-lane-detection).
 
 ---
 
